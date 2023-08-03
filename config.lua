@@ -13,7 +13,7 @@ config = {
 
         -- vMenu PLD Position
         posX = 0.25,
-        posY = 0.963
+        posY = 0.961
     },
 
     blip = {

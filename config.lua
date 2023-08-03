@@ -12,7 +12,7 @@ config = {
         --posY = 0.963,
 
         -- vMenu PLD Position
-        posX = 0.22,
+        posX = 0.25,
         posY = 0.963
     },
 
